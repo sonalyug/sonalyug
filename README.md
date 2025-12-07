@@ -12,3 +12,6 @@ React frontend + Django REST backend
 
 
 Open to freelance React/Django projects! 📧
+
+
+- ThreeBlend source: [threeblend-ecommerce](https://github.com/sonalyug/threeblend-ecommerce)
