@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Sonal 👋
 
-<!--
-**sonalyug/sonalyug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-stack Developer building e-commerce platforms**
 
-Here are some ideas to get you started:
+## 🛒 Featured Project: ThreeBlend Market
+React frontend + Django REST backend
+- Category filters: Jewelry, Clothing, Cosmetics, Electronics
+- Live Demo: [Frontend](https://your-vercel-link.vercel.app) | [Backend](https://your-render-link.onrender.com)
+- [GitHub Repo](https://github.com/sonalyug/ThreeBlend-Market)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Technologies
+
+
+Open to freelance React/Django projects! 📧
