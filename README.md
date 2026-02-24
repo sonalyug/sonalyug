@@ -97,8 +97,7 @@ Passionate Full-Stack Developer with expertise in building modern, scalable web 
 💼 **LinkedIn:** [linkedin.com/in/shivani-bhardwaj](https://www.linkedin.com/in/shivani-bhardwaj-79b681222/)  
 📧 **Email:** shivaniai2222@gmail.com  
 📱 **Phone:** +91 9992263726  
-🌐 **Portfolio:** [View My Work](https://github.com/sonalyug/Portfolio)
-
+🌐 **Portfolio:** [GitHub Repository](https://github.com/sonalyug/Portfolio) | [Live Portfolio Website](https://sonalyug.github.io/Portfolio)  
 ---
 
 ### 🌟 Open to Opportunities
