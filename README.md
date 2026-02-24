@@ -97,12 +97,10 @@ Passionate Full-Stack Developer with expertise in building modern, scalable web 
 💼 **LinkedIn:** [linkedin.com/in/shivani-bhardwaj](https://www.linkedin.com/in/shivani-bhardwaj-79b681222/)  
 📧 **Email:** shivaniai2222@gmail.com  
 📱 **Phone:** +91 9992263726  
-🌐 **Portfolio:** [GitHub Repository](https://github.com/sonalyug/Portfolio) | [Live Portfolio Website](https://sonalyug.github.io/Portfolio)  
 ---
 
 ### 🌟 Open to Opportunities
-
-💡 **Actively seeking:**
+🌐 **Portfolio:** [GitHub Repository](https://github.com/sonalyug/Portfolio) | [Live Website](https://shivani-bhardwaj.netlify.app/)  💡 **Actively seeking:**
 - Full-Stack Developer positions (React + Django)
 - Freelance Web Development projects
 - Remote & Hybrid opportunities in Pune
